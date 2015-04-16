@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Ukrainian symbols",
-  "short_name": "Ukrainian symbols",
-  "description": "This extension provide a simple way to type ukrainian symbols which is missed in russian keyboard layout.",
+  "name": "Belarusian symbols",
+  "short_name": "Belarusian symbols",
+  "description": "This extension provide a simple way to type belarusian symbols which is missed in russian keyboard layout.",
   "version": "0.0.0.3",
 
   "icons": {
