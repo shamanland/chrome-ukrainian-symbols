@@ -4,7 +4,7 @@
   "name": "Ukrainian symbols",
   "short_name": "Ukrainian symbols",
   "description": "This extension provide a simple way to type ukrainian symbols which is missed in russian keyboard layout.",
-  "version": "0.0.0.2",
+  "version": "0.0.0.3",
 
   "icons": {
     "16": "icon16.png",
